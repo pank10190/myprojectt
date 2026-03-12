@@ -1,5 +1,5 @@
 import { Routes, Route, Navigate } from "react-router-dom";
-import LandingPage from "./pages/LandingPage";
+import LandingPage from "./pages/LandingPage.jsx";
 import Login from "./pages/admin/Login";
 import Dashboard from "./pages/admin/Dashboard";
 import Users from "./pages/admin/Users";
